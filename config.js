@@ -49,7 +49,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/danibotz_official' // ig
+global.sig = 'https://instagram.com/amingxy_' // ig
 global.sgh = 'https://github.com/YT-DANIXD' // github
 global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
@@ -67,14 +67,14 @@ global.ppulsa2 = '081348106274' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '621352848936'
-global.nomorown = '6281251549899'
-global.namebot = 'DANI-MODS-BOT-V1'
-global.nameown = 'DANI MODS DEV'
+global.nomorbot = '6285321043537'
+global.nomorown = '6282154156241'
+global.namebot = 'AR-MODS-BOT-V1'
+global.nameown = 'AMIR MODS DEV'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'YT-DANIXD' // nama github lu
-global.linkgithub = 'https://github.com/YT-DANIXD' // tarok link github lu
+global.namagithub = 'Amirr' // nama github lu
+global.linkgithub = 'https://github.com/USER0106' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,9 +85,9 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'DANI MODS DEV', true],
-  ['6281348106274', 'DANIXD', true],
-  ['6281352848936', 'DANI BOTZ V1', true],
+  ['6282154156241', 'AMIR MODS DEV', true],
+  ['6282154156241', 'AMIRXD', true],
+  ['6285321043537', 'AR BOTZ V1', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
     //Ganti jd nomormu sama Namamu
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DANI-MODS-BOT-V3 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DANI-MODS-BOT-V3 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ DANI-MODS-BOT-V3 '
+global.wm = '                「 AR-MODS-BOT-V3 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘AR-MODS-BOT-V3 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ AR-MODS-BOT-V3 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By DANI-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By AMIR-MODS-DEV`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 DANI-MODS-BOT-V3  あ」'
+global.author = '                「 AR-MODS-BOT-V3  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'DANI-MODS-BOT-V1'
-global.stickauth = `By ©DANI-MODS-DEV`
+global.stickpack = 'AR-MODS-BOT-V1'
+global.stickauth = `By ©AMIR-MODS-DEV`
 
 global.multiplier = 38 // The higher, The harder levelup
 
